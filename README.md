@@ -107,9 +107,6 @@ To achieve smoother playback, the player can generate intermediate frames betwee
 - Performance depends on your system's capabilities
 - Very fast-moving scenes may appear blurry in ASCII
 
-## License
-
-[Add your license information here]
 
 ## Acknowledgments
 
